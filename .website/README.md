@@ -1,4 +1,8 @@
 ---
+genres:
+  - roguelike
+  - adventure
+  - strategy
 directors_cut: https://labrat.mobi/games/hornbound/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
